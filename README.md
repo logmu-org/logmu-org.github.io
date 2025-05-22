@@ -1,2 +1,3 @@
-# logmu-org.github.io
-LogMu website
+# README
+
+This is the source for the [LogMu.org](https://logmu.org/) website.
