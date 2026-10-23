@@ -2,5 +2,6 @@
 
 ## LogMu R packages
 
-- [datey](https://r-datey.logmu.org/): exact date and duration arithmetic on an annual grid
-- [naxp](https://r-datey.logmu.org/): define mappings for alphanumeric codes using expressions
+- [logmu](https://r-logmu.logmu.org/). Mortality analysis for liability valuation
+- [datey](https://r-datey.logmu.org/). Exact date and duration arithmetic on an annual grid
+- [naxp](https://r-datey.logmu.org/): Define mappings for alphanumeric codes using expressions
